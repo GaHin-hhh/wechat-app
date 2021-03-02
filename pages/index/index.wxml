@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="pos" bind:touchstart="touchStart" bind:touchend="touchEnd" src="{{showImg}}"></image>
+</view>
